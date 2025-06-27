@@ -1,1 +1,2 @@
 # SOC--QC-summer-2025-
+Through this project, I learnt some of the theory behind quantum computing. The first few weeks were dedicated to learning the algebra behind QC and things like operators and quantum gates. Using qiskit, I coded up a simple quantum circuit to execute superdense coding and run it on AerSimulator. Running it on actual quantum hardware was not possible as IBM is updating their website and API token system which is proving to be problematic. A simple type of error correction was also executed to overcome this problem in noisy channels.
